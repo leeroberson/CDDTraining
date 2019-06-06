@@ -1,11 +1,11 @@
 			{      
         "parameters": [{       
                                 "name": "CDAReleaseVersion",   
-                                "value": "2.0"  
+                                "value": "3.0"  
                         },     
                         {      
                                 "name": "ContentVersion",      
-                                "value": "98"  
+                                "value": "99"  
                         }     
                   ],     
                 "reference": { 
