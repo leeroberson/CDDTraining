@@ -3,7 +3,6 @@
 "parameters": [{
 
                         "name": "musicUiAppVersion",
-
                         "value": "93"
 
                 },
@@ -11,7 +10,6 @@
                 {
 
                         "name": "musicBackendAppVersion",
-
                         "value": "90"
 
                 },
