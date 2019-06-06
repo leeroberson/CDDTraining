@@ -8,6 +8,6 @@
                                 "value": "1.0" 
                                  ],     
                 "reference": { 
-                        "fileName": "MusicAppsToday_v5.6.json",
-                        "fileSource": "OpsRel" 
+                        "fileName": "CDARelease.json",
+                        "fileSource": "CDD-FileSource" 
                 }      
