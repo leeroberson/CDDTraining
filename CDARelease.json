@@ -2,7 +2,7 @@
 	"objects": [
 		{
 			"application": "Local|CDATest",
-			"name": "ContentVersion",
+			"name": "${ContentVersion}",
 			"kind": "ApplicationVersion"
 		},
 		{
@@ -19,7 +19,7 @@
 			"kind": "Release"
 		},
 		{
-			"release": "CDARelease/1.0",
+			"release": "CDARelease/${CDAReleaseVersion}",
 			"approvalGate": "MANUAL",
 			"skipTasksWithUnchangedApplications": false,
 			"isApprovalRequired": false,
