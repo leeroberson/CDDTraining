@@ -1,12 +1,15 @@
-{      
+			{      
         "parameters": [{       
                                 "name": "CDAReleaseVersion",   
                                 "value": "2.0"  
                         },     
                         {      
                                 "name": "ContentVersion",      
-                                "value": "1.0" 
-                                 ],     
+                                "value": "98"  
+                        }     
+                              
+                              
+                ],     
                 "reference": { 
                         "fileName": "CDARelease.json",
                         "fileSource": "CDD-FileSource" 
