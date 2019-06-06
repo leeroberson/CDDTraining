@@ -1,0 +1,13 @@
+{      
+        "parameters": [{       
+                                "name": "CDAReleaseVersion",   
+                                "value": "2.0"  
+                        },     
+                        {      
+                                "name": "ContentVersion",      
+                                "value": "1.0" 
+                                 ],     
+                "reference": { 
+                        "fileName": "MusicAppsToday_v5.6.json",
+                        "fileSource": "OpsRel" 
+                }      
