@@ -4,7 +4,7 @@
 
                         "name": "musicUiAppVersion",
 
-                        "value": "99"
+                        "value": "90"
 
                 },
 
@@ -12,7 +12,7 @@
 
                         "name": "musicBackendAppVersion",
 
-                        "value": "98"
+                        "value": "90"
 
                 },
 
@@ -20,7 +20,7 @@
 
                         "name": "musicImsReleaseVersion",
 
-                        "value": "97"
+                        "value": "90"
 
                 },
 
