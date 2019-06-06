@@ -10,5 +10,5 @@
                   ],     
                 "reference": { 
                         "fileName": "CDARelease.json",
-                        "fileSource": "CDD-FileSource" 
+                        "fileSource": "CDDTraining" 
                 }      
